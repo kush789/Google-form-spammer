@@ -1,13 +1,13 @@
 ###############################################################################
 #
-# 					       2015 (C) Kushara Singh
-#						  kushagra14056@iiitd.ac.in
+#                          2015 (C) Kushara Singh
+#                         kushagra14056@iiitd.ac.in
 #
-# 						    Licensed under WTFPL
-#   		      Do What the Fuck You Want to Public License
-#	    					http://www.wtfpl.net/
+#                           Licensed under WTFPL
+#               Do What the Fuck You Want to Public License
+#                          http://www.wtfpl.net/
 #
-#				Author is nor liable for misuse; Use carefully!
+#              Author is nor liable for misuse; Use carefully!
 #
 ###############################################################################
 #
