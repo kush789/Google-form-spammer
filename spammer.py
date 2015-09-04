@@ -23,7 +23,7 @@
 #			- radio
 #			- checkbox
 #
-#	Ehat it cannot spam?
+#	What it cannot spam?
 #
 #		- Multi page forms
 #		- Forms that require login (duh!)
