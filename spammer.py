@@ -114,7 +114,7 @@ def spam_form(url, times = 1):
 if __name__ == "__main__":
 
 	if len(sys.argv) < 3:
-		print "run script as\n'python %s url number_of_times_you_want_to_spam'\n" %(__file__)
+		print "run script as\n'python %s 'url' (in quotes) number_of_times_you_want_to_spam'\n" %(__file__)
 		exit()
 
 	url = sys.argv[1]
