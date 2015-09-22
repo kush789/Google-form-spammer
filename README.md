@@ -16,7 +16,7 @@ Instructions for setup
 
 - Run the script with arguments
 
-        python spammer.py url times
+        python spammer.py 'url' (in quotes) times
         
   ``url`` : URL of the google form <br>
   ``times`` : number of times you want to spam the form
