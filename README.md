@@ -1,5 +1,13 @@
 #Google Form Spammer
 
+
+        As of 13/12/16 this script no longer works. Google changed the type of each 
+        form control to "HiddenControl". Earlier on it was something like "text",
+        "select", "radio" etc. Because of this it is impossible to identify what kind
+        a form control is, so filling it is not so trivial (it could be anything such as
+        text/date/select etc.).
+
+
 A python script that spams a google form as many times as you want.
 
 Instructions for setup
