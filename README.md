@@ -1,4 +1,4 @@
-#Google Form Spammer
+# Google Form Spammer
 
 
         As of 13/12/16 this script no longer works. Google changed the type of each 
